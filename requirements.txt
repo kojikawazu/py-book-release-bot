@@ -1,0 +1,6 @@
+requests==2.31.0
+beautifulsoup4==4.10.0
+python-dotenv==0.19.2
+urllib3==1.26.5
+charset_normalizer==2.0.4
+line-bot-sdk==3.5.0
